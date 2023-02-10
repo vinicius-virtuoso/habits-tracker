@@ -6,8 +6,6 @@
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   [Tecnologias](#tecnologias)
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  [Aprendizado](#aprendizado)
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   [Layout](#layout)
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   [Licença](#license)
