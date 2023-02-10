@@ -50,13 +50,6 @@ Esse projeto foi feito durante a NLW Setup da Rocketseat na trilha Ignite, em su
 <br>
 <br>
 
-## 🧠 Aprendizado <a name = "aprendizado"></a>
-
-Tudo o que eu estou aprendendo durante esse projeto estou documentando aqui no aquivo [DOC.md](DOC.md).
-
-<br>
-<br>
-
 ## 🔖 Layout <a name = "layout"></a>
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/ArxVYcX7q7OUgCwdfBV6b7/Habits-(i)-(Community)?node-id=6%3A343&t=4ZHKCi0ZbniE75iY-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
