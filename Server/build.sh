@@ -2,6 +2,6 @@
 # exit on error
 set -o errexit
 
-yarn
-yarn build
-yarn typeorm migration:run -d dist/data-source
+npm run
+npm run build
+npx prisma migrate dev --name init
